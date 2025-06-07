@@ -11,5 +11,6 @@ public class BajajTest {
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.bajajauto.com/");
 		Reporter.log("Bajaj Lunch",true);
+		Reporter.log("Bajaj Lunch",true);
 	}
 }
